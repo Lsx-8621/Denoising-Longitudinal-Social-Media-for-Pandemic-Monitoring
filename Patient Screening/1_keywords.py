@@ -1,6 +1,3 @@
-# total number of tweets: 10,042,382
-# filis in /data_8t/LSX/preprocess/filter/extracted/
-
 import re
 import ast
 import glob
