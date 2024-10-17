@@ -1,6 +1,3 @@
-# total number of tweets: 501427
-# filis in /data_8t/LSX/preprocess/filter/positive/
-
 import spacy #version:3.1.0  en_core_web_sm:3.1.0
 import string
 import glob
@@ -248,7 +245,6 @@ else:
     with open("processed_files.log","r") as log:
         processed_files = [f.split(" ")[-1] for f in log.read().split("\n")]
 
-'------------------------------------------------------------------------------------------'
 out_dir = "./positive/"
 
 data_dir = "./extracted/" 
