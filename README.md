@@ -1,2 +1,2 @@
-# Denoising-Longitudinal-Social-Media-for-Pandemic-Monitoring
-This repository contains related code and data of the paper "Denoising Longitudinal Social Media for Pandemic Monitoring". We thank all the contributors.
+# Analysis of Longitudinal Social Media for Monitoring Symptoms During a Pandemic
+This repository contains related code and data of the paper "Analysis of Longitudinal Social Media for Monitoring Symptoms During a Pandemic". We thank all the contributors.
